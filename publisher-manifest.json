@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "e523bf0d4b68efc0e3de4100",
+  "owner": "jdtknry",
+  "repo": "jdtknry.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "1c67d092df747e89d8a8f6b4",
+      "a": "PRPR橙(prpr)",
+      "b": "加速器官网",
+      "entity": "PRPR橙(prpr)",
+      "brand": "PRPR橙(prpr)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d7ea1a32592bd033d642e3834f2f09fdf259c21bfaa0f029074db8b81918c62b",
+      "content": {
+        "primary_entity": "PRPR橙(prpr)",
+        "keyword1": "PRPR橙(prpr)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择订阅客户端，Windows 与 macOS 桌面端、Android 与 iOS 移动端、路由器与电视盒子各有对应的配置方式，请依客户端文档导入订阅链接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先确认自己的设备与流量需求，再对照套餐选择最适合的方案。",
+          "AI_CLOSING_TITLE": "从设备与流量出发",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，按月或按年灵活选择。基础版适合手机与电脑轻量使用，旗舰版增加流量与设备数并优化专线连接，团队版面向多设备与定制路由场景。选择时先看常用设备数量，再看每月流量消耗，最后结合流媒体或游戏加速需求确定档位。",
+          "AI_FEATURES_INTRO": "套餐差异、设备数量与订阅周期是选择时最常比较的三个维度。",
+          "AI_FEATURES_TITLE": "选择时看什么",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版与团队版在流量、设备数与节点权益上逐级提升，按使用强度匹配。",
+          "AI_FEATURE_TEXT_2": "不同档位对应可同时在线的设备规模，根据手机、电脑、平板与路由器的实际数量选择。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付方案降低月均支出，订阅生效后即可在客户端导入使用。",
+          "AI_FEATURE_TITLE_1": "套餐分级",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择套餐到完成客户端配置，按步骤操作即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "PRPR橙(prpr)面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅，覆盖从个人手机电脑到多设备团队的使用场景。按设备数量与流量需求选择合适套餐，再依客户端文档完成订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "覆盖个人到团队设备",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版平衡流量与专线体验，团队版面向多设备与定制路由需求，按实际用量对比选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量消耗，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与节点权益，确认是否覆盖手机、电脑或路由器。",
+          "AI_STEP_TEXT_3": "依对应客户端的配置文档导入订阅链接，完成桌面端或移动端的连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "PRPR橙订阅选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版适合设备少、流量需求不高的日常使用；旗舰版增加设备支持数量，并加入专线游戏优化与优先工单支持。可按设备与线路要求选择。",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版、旗舰版与团队版分别对应不同的同时在线设备数。超出支持数量时可升级套餐，或为其他设备单独订阅。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "月付适合短期试用或临时需求，年付方案在长期使用场景下更为经济。可先按月体验，确认满足日常使用后再考虑年付。",
+          "AI_FAQ_QUESTION_4": "订阅配置一般怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中选择导入订阅或手动添加节点信息，按客户端文档提示填写即可。不同客户端操作路径略有差异，建议以所用客户端的配置说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供高带宽节点与定制路由，适合多人协作、跨地区办公或对带宽要求较高的小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "aba5b1512f54102ee8b1606d5da50581eeb9fbc965001cac9e097425dcfdf57c",
+    "sitemap.xml": "f5a8dcb9efde9fec6969885e35bff58f40f1d84343df1b006a5253cbb44cf3fd",
+    "robots.txt": "e9b362a4eb59abafe178a4622cc1f4827accac53d8ede4064d88d09cc0568914",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7131e240967455b499080925b67b90892d918dbc950d959fb3f7a42d26c4c1f7"
+}
